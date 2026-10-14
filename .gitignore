@@ -1,0 +1,5 @@
+﻿__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+crop_analysis_backup.py
